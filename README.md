@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="left">Hi, I'm Nicholas</h1>
 
-<!--
-**nicholasvmoreno/nicholasvmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+  <table>
+    <tr>
+        <td>
+          <img width="400px" align="center" 
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasvmoreno&hide=html,php,blade,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
+      </td>
+      <td>
+          <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=nicholasvmoreno&show_icons=true&count_private=true&theme=dracula" />
+      </td>
+    </tr>   
+  </table>
+</center>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Python/Django, React, API, DevOps**
